@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\nas\nas\bin\Debug\nas.exe.config
+C:\Users\Ученик_1\source\repos\nas\nas\bin\Debug\nas.exe
+C:\Users\Ученик_1\source\repos\nas\nas\bin\Debug\nas.pdb
+C:\Users\Ученик_1\source\repos\nas\nas\obj\Debug\nas.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\nas\nas\obj\Debug\nas.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\nas\nas\obj\Debug\nas.exe
+C:\Users\Ученик_1\source\repos\nas\nas\obj\Debug\nas.pdb

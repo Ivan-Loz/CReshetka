@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\SYPER\SYPER\bin\Debug\SYPER.exe.config
+C:\Users\Ученик_1\source\repos\SYPER\SYPER\bin\Debug\SYPER.exe
+C:\Users\Ученик_1\source\repos\SYPER\SYPER\bin\Debug\SYPER.pdb
+C:\Users\Ученик_1\source\repos\SYPER\SYPER\obj\Debug\SYPER.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\SYPER\SYPER\obj\Debug\SYPER.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\SYPER\SYPER\obj\Debug\SYPER.exe
+C:\Users\Ученик_1\source\repos\SYPER\SYPER\obj\Debug\SYPER.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ученик_1\source\repos\Newe\Newe\bin\Debug\Newe.exe.config
+C:\Users\Ученик_1\source\repos\Newe\Newe\bin\Debug\Newe.exe
+C:\Users\Ученик_1\source\repos\Newe\Newe\bin\Debug\Newe.pdb
+C:\Users\Ученик_1\source\repos\Newe\Newe\obj\Debug\Newe.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\Newe\Newe\obj\Debug\Newe.Form1.resources
+C:\Users\Ученик_1\source\repos\Newe\Newe\obj\Debug\Newe.Properties.Resources.resources
+C:\Users\Ученик_1\source\repos\Newe\Newe\obj\Debug\Newe.csproj.GenerateResource.cache
+C:\Users\Ученик_1\source\repos\Newe\Newe\obj\Debug\Newe.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\Newe\Newe\obj\Debug\Newe.exe
+C:\Users\Ученик_1\source\repos\Newe\Newe\obj\Debug\Newe.pdb
