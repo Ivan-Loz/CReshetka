@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\pzz\pzz\bin\Debug\pzz.exe.config
+C:\Users\Ученик_1\source\repos\pzz\pzz\bin\Debug\pzz.exe
+C:\Users\Ученик_1\source\repos\pzz\pzz\bin\Debug\pzz.pdb
+C:\Users\Ученик_1\source\repos\pzz\pzz\obj\Debug\pzz.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\pzz\pzz\obj\Debug\pzz.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\pzz\pzz\obj\Debug\pzz.exe
+C:\Users\Ученик_1\source\repos\pzz\pzz\obj\Debug\pzz.pdb

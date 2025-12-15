@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\pz5\pz5\bin\Debug\pz5.exe.config
+C:\Users\Ученик_1\source\repos\pz5\pz5\bin\Debug\pz5.exe
+C:\Users\Ученик_1\source\repos\pz5\pz5\bin\Debug\pz5.pdb
+C:\Users\Ученик_1\source\repos\pz5\pz5\obj\Debug\pz5.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\pz5\pz5\obj\Debug\pz5.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\pz5\pz5\obj\Debug\pz5.exe
+C:\Users\Ученик_1\source\repos\pz5\pz5\obj\Debug\pz5.pdb
