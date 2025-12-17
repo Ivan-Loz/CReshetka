@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\day_17.12.25\day_17.12.25\bin\Debug\day_17.12.25.exe.config
+C:\Users\Ученик_1\source\repos\day_17.12.25\day_17.12.25\bin\Debug\day_17.12.25.exe
+C:\Users\Ученик_1\source\repos\day_17.12.25\day_17.12.25\bin\Debug\day_17.12.25.pdb
+C:\Users\Ученик_1\source\repos\day_17.12.25\day_17.12.25\obj\Debug\day_17.12.25.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\day_17.12.25\day_17.12.25\obj\Debug\day_17.12.25.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\day_17.12.25\day_17.12.25\obj\Debug\day_17.12.25.exe
+C:\Users\Ученик_1\source\repos\day_17.12.25\day_17.12.25\obj\Debug\day_17.12.25.pdb
