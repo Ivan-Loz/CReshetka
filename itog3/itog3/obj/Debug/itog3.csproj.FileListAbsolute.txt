@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\itog3\itog3\bin\Debug\itog3.exe.config
+C:\Users\Ученик_1\source\repos\itog3\itog3\bin\Debug\itog3.exe
+C:\Users\Ученик_1\source\repos\itog3\itog3\bin\Debug\itog3.pdb
+C:\Users\Ученик_1\source\repos\itog3\itog3\obj\Debug\itog3.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\itog3\itog3\obj\Debug\itog3.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\itog3\itog3\obj\Debug\itog3.exe
+C:\Users\Ученик_1\source\repos\itog3\itog3\obj\Debug\itog3.pdb
