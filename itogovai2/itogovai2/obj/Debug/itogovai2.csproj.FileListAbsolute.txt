@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\itogovai2\itogovai2\obj\Debug\itogovai2.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\itogovai2\itogovai2\obj\Debug\itogovai2.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\itogovai2\itogovai2\bin\Debug\itogovai2.exe.config
+C:\Users\Ученик_1\source\repos\itogovai2\itogovai2\bin\Debug\itogovai2.exe
+C:\Users\Ученик_1\source\repos\itogovai2\itogovai2\bin\Debug\itogovai2.pdb
+C:\Users\Ученик_1\source\repos\itogovai2\itogovai2\obj\Debug\itogovai2.exe
+C:\Users\Ученик_1\source\repos\itogovai2\itogovai2\obj\Debug\itogovai2.pdb
