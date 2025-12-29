@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\NgProdgect\NgProdgect\bin\Debug\NgProdgect.exe.config
+C:\Users\Ученик_1\source\repos\NgProdgect\NgProdgect\bin\Debug\NgProdgect.exe
+C:\Users\Ученик_1\source\repos\NgProdgect\NgProdgect\bin\Debug\NgProdgect.pdb
+C:\Users\Ученик_1\source\repos\NgProdgect\NgProdgect\obj\Debug\NgProdgect.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\NgProdgect\NgProdgect\obj\Debug\NgProdgect.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\NgProdgect\NgProdgect\obj\Debug\NgProdgect.exe
+C:\Users\Ученик_1\source\repos\NgProdgect\NgProdgect\obj\Debug\NgProdgect.pdb
