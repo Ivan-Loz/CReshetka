@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\messegClient\messegClient\bin\Debug\messegClient.exe.config
+C:\Users\Ученик_1\source\repos\messegClient\messegClient\bin\Debug\messegClient.exe
+C:\Users\Ученик_1\source\repos\messegClient\messegClient\bin\Debug\messegClient.pdb
+C:\Users\Ученик_1\source\repos\messegClient\messegClient\obj\Debug\messegClient.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\messegClient\messegClient\obj\Debug\messegClient.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\messegClient\messegClient\obj\Debug\messegClient.exe
+C:\Users\Ученик_1\source\repos\messegClient\messegClient\obj\Debug\messegClient.pdb
