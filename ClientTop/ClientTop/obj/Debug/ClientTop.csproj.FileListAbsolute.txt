@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\ClientTop\ClientTop\bin\Debug\ClientTop.exe.config
+C:\Users\Ученик_1\source\repos\ClientTop\ClientTop\bin\Debug\ClientTop.exe
+C:\Users\Ученик_1\source\repos\ClientTop\ClientTop\bin\Debug\ClientTop.pdb
+C:\Users\Ученик_1\source\repos\ClientTop\ClientTop\obj\Debug\ClientTop.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\ClientTop\ClientTop\obj\Debug\ClientTop.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\ClientTop\ClientTop\obj\Debug\ClientTop.exe
+C:\Users\Ученик_1\source\repos\ClientTop\ClientTop\obj\Debug\ClientTop.pdb

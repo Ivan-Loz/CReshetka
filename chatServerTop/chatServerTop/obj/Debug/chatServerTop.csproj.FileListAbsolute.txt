@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\chatServerTop\chatServerTop\bin\Debug\chatServerTop.exe.config
+C:\Users\Ученик_1\source\repos\chatServerTop\chatServerTop\bin\Debug\chatServerTop.exe
+C:\Users\Ученик_1\source\repos\chatServerTop\chatServerTop\bin\Debug\chatServerTop.pdb
+C:\Users\Ученик_1\source\repos\chatServerTop\chatServerTop\obj\Debug\chatServerTop.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\chatServerTop\chatServerTop\obj\Debug\chatServerTop.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\chatServerTop\chatServerTop\obj\Debug\chatServerTop.exe
+C:\Users\Ученик_1\source\repos\chatServerTop\chatServerTop\obj\Debug\chatServerTop.pdb
