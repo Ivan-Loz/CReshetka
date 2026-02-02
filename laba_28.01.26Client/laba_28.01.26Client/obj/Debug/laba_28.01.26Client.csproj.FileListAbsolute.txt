@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\laba_28.01.26Client\laba_28.01.26Client\bin\Debug\laba_28.01.26Client.exe.config
+C:\Users\Ученик_1\source\repos\laba_28.01.26Client\laba_28.01.26Client\bin\Debug\laba_28.01.26Client.exe
+C:\Users\Ученик_1\source\repos\laba_28.01.26Client\laba_28.01.26Client\bin\Debug\laba_28.01.26Client.pdb
+C:\Users\Ученик_1\source\repos\laba_28.01.26Client\laba_28.01.26Client\obj\Debug\laba_28.01.26Client.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\laba_28.01.26Client\laba_28.01.26Client\obj\Debug\laba_28.01.26Client.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\laba_28.01.26Client\laba_28.01.26Client\obj\Debug\laba_28.01.26Client.exe
+C:\Users\Ученик_1\source\repos\laba_28.01.26Client\laba_28.01.26Client\obj\Debug\laba_28.01.26Client.pdb
