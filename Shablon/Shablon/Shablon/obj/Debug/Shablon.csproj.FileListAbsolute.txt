@@ -1,0 +1,7 @@
+C:\Users\Ученик_1\source\repos\Shablon\Shablon\bin\Debug\Shablon.exe.config
+C:\Users\Ученик_1\source\repos\Shablon\Shablon\bin\Debug\Shablon.exe
+C:\Users\Ученик_1\source\repos\Shablon\Shablon\bin\Debug\Shablon.pdb
+C:\Users\Ученик_1\source\repos\Shablon\Shablon\obj\Debug\Shablon.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\Shablon\Shablon\obj\Debug\Shablon.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\Shablon\Shablon\obj\Debug\Shablon.exe
+C:\Users\Ученик_1\source\repos\Shablon\Shablon\obj\Debug\Shablon.pdb
