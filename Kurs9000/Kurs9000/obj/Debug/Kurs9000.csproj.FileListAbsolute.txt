@@ -1,0 +1,7 @@
+C:\Users\vebik\source\repos\Kurs9000\Kurs9000\bin\Debug\Kurs9000.exe.config
+C:\Users\vebik\source\repos\Kurs9000\Kurs9000\bin\Debug\Kurs9000.exe
+C:\Users\vebik\source\repos\Kurs9000\Kurs9000\bin\Debug\Kurs9000.pdb
+C:\Users\vebik\source\repos\Kurs9000\Kurs9000\obj\Debug\Kurs9000.csproj.AssemblyReference.cache
+C:\Users\vebik\source\repos\Kurs9000\Kurs9000\obj\Debug\Kurs9000.csproj.CoreCompileInputs.cache
+C:\Users\vebik\source\repos\Kurs9000\Kurs9000\obj\Debug\Kurs9000.exe
+C:\Users\vebik\source\repos\Kurs9000\Kurs9000\obj\Debug\Kurs9000.pdb
